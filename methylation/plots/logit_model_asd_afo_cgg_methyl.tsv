@@ -1,0 +1,4 @@
+Estimate	Std. Error	z value	Pr(>|z|)
+intercept	-0.23826	1.65285	-0.1442	0.8854
+cgg_repeat_length	-0.05141	0.06085	-0.8449	0.3982
+frac_hap_methyl_fmr1	 1.04794	1.04640	 1.0015	0.3166
