@@ -1,6 +1,6 @@
 #!/bin/bash
 
-DIR_IN=/expanse/projects/sebat1/miladm/UCSD/LONG_READ_COHORT/TRs_LongTR/FAM
+DIR_IN=<path to processed vcf directory>
 VCF_IN=$DIR_IN/longtr_merge.sorted.vep.addInfo.vcf.gz
 VEP_OUT=vep.tsv
 
